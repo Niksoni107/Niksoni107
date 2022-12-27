@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sonar</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst @VN Toolings</h3>
 
 - 💬 Ask me about **SQL, Python, Power BI, EDA, Advance Excel**
 
-- 📫 How to reach me **nvson107@gmail.com**
+- 📫 How to reach me **niksonar.da@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
