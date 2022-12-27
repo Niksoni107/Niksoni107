@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sonar</h1>
-<h3 align="center">Data Analyst Intern @Digikull</h3>
+<h3 align="center">Data Analyst</h3>
 
 - 💬 Ask me about **SQL, Python, Power BI, EDA, Advance Excel**
 
